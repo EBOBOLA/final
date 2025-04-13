@@ -13,3 +13,7 @@
 ## Из других:
 1.можно взять основные импорты
 2.остальное писать с нуля(сам без помощи)
+
+## Референсы:
+1.MiranSupportBot и MiranNotificationsBot
+2.TelegramSupportBot
